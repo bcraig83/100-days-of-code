@@ -17,7 +17,7 @@
 
 1. [YouTube video](https://www.youtube.com/watch?v=3s2lSD50-JI) explaining the basic concepts of Spring Security
 2. [PluralSight course](https://www.pluralsight.com/courses/spring-security-fundamentals) on spring security fundamentals.
-3. A second [PluralSight course](https://app.pluralsight.com/library/courses/build-web-app-spring-mvc-hibernate-bootstrap-rest-service/table-of-contents), in particular the section on securing the application. 
+3. A second [PluralSight course](https://app.pluralsight.com/library/courses/build-web-app-spring-mvc-hibernate-bootstrap-rest-service/table-of-contents), in particular the section on securing the application. (mind you, abandoned this as it starting talking about DelegatingFilterProxies...something I hadn't seen anywhere else...)
 
 Also...reacquanted myself with my old friends Maven and Tomcat and learned how to work with them through intellij.
 
