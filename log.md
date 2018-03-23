@@ -26,3 +26,15 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 **Link(s) to work**
 1. [Git repo for random name generator](https://github.com/bcraig83/random-name-generator)
 2. [Git repo for fork of spring-mvc-base](https://github.com/bcraig83/spring_mvc_base)
+
+
+
+
+### Day 3: March 23, Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. 
