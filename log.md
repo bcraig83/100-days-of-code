@@ -32,10 +32,10 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 
 ### Day 3: March 23, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Took a break from spring security...switched to mongo db instead. Working through this [tutorial](http://www.baeldung.com/spring-data-mongodb-tutorial).
 
-**Thoughts**: 
+**Thoughts**: Mongodb is awesome.
 
 **Link(s) to work**
 
-1. 
+1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
