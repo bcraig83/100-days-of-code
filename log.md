@@ -52,9 +52,9 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 
 ### Day 5: March 25, Sunday
 
-**Today's Progress**: Filling out the crud operations for my rest mongo DB example.
+**Today's Progress**: Filling out the crud operations for my rest mongo DB example. Also started implemented an alternative controller using the mongo template instead of the repository. Constructed postman tests for verifying.
 
-**Thoughts**: 
+**Thoughts**: Made the controllers implement a single interface, which is nice, but I still have a bit of duplication in the spring annotations. Would like to figure out how to avoid that...
 
 **Link(s) to work**
 
