@@ -49,3 +49,13 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 **Link(s) to work**
 
 1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
+
+### Day 5: March 25, Sunday
+
+**Today's Progress**: Filling out the crud operations for my rest mongo DB example.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
