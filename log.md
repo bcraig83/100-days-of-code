@@ -39,3 +39,13 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 **Link(s) to work**
 
 1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
+
+### Day 4: March 24, Saturday
+
+**Today's Progress**: More work on mongo db tutorial from baledung.
+
+**Thoughts**: Would be good to add links to this stuff to my 'working-examples' repo.
+
+**Link(s) to work**
+
+1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
