@@ -59,3 +59,14 @@ Also...reacquanted myself with my old friends Maven and Tomcat and learned how t
 **Link(s) to work**
 
 1. [Git repo](https://github.com/bcraig83/mongo-spring-demo)
+
+
+### Day 6: March 26, Monday
+
+**Today's Progress**: Switched from spring mongo, to spring rest data, which is pretty sweet. Implemented pretty much exactly as I had in the previous few days, with just a few lines of code :-)
+
+**Thoughts**: Some good examples of Spring data can be found [here](https://github.com/spring-projects/spring-data-examples/tree/master/rest)
+
+**Link(s) to work**
+
+1. [Git repo to spring rest data](https://github.com/bcraig83/spring-rest-data)
